@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An impartial and exact accompt of the divers popish books, beads, crucifixes and images, taken at the Savoy by Sr. William Waller, one of His Majesties justices of the peace and burnt by order, in the New Palace-yard Westminster, the 11th of February ; written in a letter to a friend in the countrey.</title>
+            <author>Waller, William, Sir, d. 1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70347</idno>
+            <idno type="STC">Wing I79</idno>
+            <idno type="STC">ESTC R943</idno>
+            <idno type="EEBO-CITATION">12241465</idno>
+            <idno type="OCLC">ocm 12241465</idno>
+            <idno type="VID">56787</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70347)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56787)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 458:20 or 904:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An impartial and exact accompt of the divers popish books, beads, crucifixes and images, taken at the Savoy by Sr. William Waller, one of His Majesties justices of the peace and burnt by order, in the New Palace-yard Westminster, the 11th of February ; written in a letter to a friend in the countrey.</title>
+                  <author>Waller, William, Sir, d. 1699.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Attributed to Sir William Waller. cf. Wing.</note>
+                  <note>Entry for W545 cancelled in Wing (2nd ed.).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism --  England.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56787:1"/>
+            <pb facs="tcp:56787:1"/>
+            <p>An Impartial and Exact ACCOMPT OF THE DIVERS Popiſh Books, Beads, Crucifixes and Images, taken at the <hi>Savoy,</hi> BY S<hi rend="sup">r</hi>. <hi>WILLIAM WALLER,</hi> One of His Majeſties Juſtices of the Peace.</p>
+            <p>AND Burnt by Order, in the <hi>New Palace-yard Weſtminſter:</hi> the <hi>11th.</hi> of <hi>February.</hi>
+            </p>
+            <p>Written in a Letter to a Friend in the Countrey.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>R. G.</hi> 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:56787:2"/>
+            <pb n="1" facs="tcp:56787:2"/>
+            <head>A LETTER TO A Friend in the Countrey.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HIS comes Poſt-haſt to give you a full and true ac<g ref="char:EOLhyphen"/>count of what our diligent Juſtices have performed in order to the better finding out and diſcovering this damnable and malicious PLOT; not only againſt yours or my own, but the Life and Safety of our moſt Gracious Soveraign.</p>
+            <p>You are not, I ſuppoſe, ignorant of one of our Juſtices of the Peace for the Liberty
+<pb n="2" facs="tcp:56787:3"/> of <hi>Weſtminſter,</hi> Sir <hi>William Waller</hi> by name, who has taken all the care a man in his Of<g ref="char:EOLhyphen"/>fice could do; not only to ſubvert, but to<g ref="char:EOLhyphen"/>tally to deſtroy this peſt of Popery, and root it out from amongſt us: having made it his whole delight as well as his duty, ever ſince he received Commiſſion from his Majeſty, to put the Laws in Execution againſt all Popiſh Prieſts, Jeſuits, Benedictines, Monks or others, of the like pernicious and plotting principles and perſwaſions: and this in a time as well dangerous to his own Life as the Kingdoms good and ſafety.</p>
+            <p>And it were well for poor <hi>England</hi> if all its Officers, Magiſtrates and Miniſters, were ſo well diſpoſed, ſince it appears to be the plaineſt demonſtration that our Gracious King, our wholſome and profitable Laws, with our ſureſt and ſafeſt Religion, are ſuch as no Nation in the World can parallel; and if we do Juſtice amongſt our ſelves, and take care to put all the Laws in Execution as they ought to be, we need not fear that either the Prieſts or Jeſuits on Earth, or the Devils in Hell can do us any harm.</p>
+            <pb n="3" facs="tcp:56787:3"/>
+            <p>But all this I did not intend to you, but only to give you an account of our preſent days work, which thus I do.</p>
+            <p>Sir <hi>William Waller</hi> having ſome days ſince ſearched the Benedictine Monks Lodgings in the <hi>Savoy</hi> (ſome of whom are in Cuſtody) found there ſeveral Popiſh Books <hi>inter alia,</hi> which afterward you have a particular of: and giving an account thereof to the Com<g ref="char:EOLhyphen"/>mittee of their Lordſhips of his Majeſties moſt Honourable Privy Council, received Order from their Lordſhips to commit them all to the flames on ſome public day, and in ſuch public place and manner as might ſatis<g ref="char:EOLhyphen"/>fie the World that ſuch proceeding againſt them was not only intended and purpoſed, but proſecuted according to Law.</p>
+            <p>And in obedience to this Order of their Lordſhips, choſe this day at eleven of the Clock, being full Term, to ſhew his readi<g ref="char:EOLhyphen"/>neſs herein. The place was the <hi>New Palace<g ref="char:EOLhyphen"/>yard, Weſtminſter,</hi> where after a long ſtake was ſet upright in the ground, about which were a quantity of fagots placed and lighted, the ſaid Sir <hi>William</hi> with the Conſtables and
+<pb n="4" facs="tcp:56787:4"/> Guard about him, brought three Cart load of the enſuing fallibilities.</p>
+            <p>Firſt, There was ſeveral Popiſh and Je<g ref="char:EOLhyphen"/>ſuitical Veſtments, Copes and Hoods, moſt of them of ſilk embroidered with ſilver and gold lace, in pictures, effigies of Croſſes and other Popiſh Hieroglyphicks, and theſe words indorſed in letters of golden em<g ref="char:EOLhyphen"/>broidery, <hi>ORA PRO ANIMA M. O.</hi> &amp;c. which were placed upon the long ſtake over the fire.</p>
+            <p>To them were adjoyned ſeveral Popiſh Pictures with frames and without, together with Crucifixes and Images of braſs and ivory, Beads an innumerable quantity, one or two Popiſh Bulls in Parchment of a con<g ref="char:EOLhyphen"/>ſiderable length, having broad leaden Seals; many Popiſh Trinkets and Reliques, and bones of Saints, or ſuch preſumed.</p>
+            <p>To which I will only add ſeven Trunks full of Popiſh Maſs-Books, Catechiſms, and others of various kinds, tending to the ſub<g ref="char:EOLhyphen"/>verſion of the Proteſtant and promoting of the Popiſh Religion and Intereſt.</p>
+            <pb n="5" facs="tcp:56787:4"/>
+            <p>All theſe were burning within the hours of 11. 12. and 1. of the Clock, at which time they were wholly extinguiſhed.</p>
+            <p>Now, Sir, I have no more at preſent but only to wiſh we may proceed by degrees, till we have prevented if not overcome our fatal Enemies, till then I am</p>
+            <closer>
+               <salute>SIR,</salute>
+               <dateline>London, <date>Febr. 11. 1678</date>.</dateline>
+               <signed>Your moſt humble Servant.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
